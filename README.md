@@ -17,7 +17,8 @@ A modern, responsive, and visually appealing landing page for service-based busi
 
 ### 📸 Preview
 
-![Landing Page Preview](preview.jpg) <!-- Replace with your actual image path if needed -->
+![Landing Page Preview](Capture1.PNG) 
+![Landing Page Preview](Capture2.PNG) 
 
 ---
 
