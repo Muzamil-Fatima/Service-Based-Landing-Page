@@ -40,3 +40,4 @@ A modern, responsive, and visually appealing landing page for service-based busi
 ### 🙌 Contributing
 
 Feel free to fork this repo and create a pull request if you have ideas to improve it.
+Author: Muzamil-Fatima
