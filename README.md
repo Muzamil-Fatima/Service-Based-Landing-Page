@@ -28,7 +28,7 @@ A modern, responsive, and visually appealing landing page for service-based busi
 2. Open `index.html` in your browser
 3. Customize content, links, or styles as needed
 
----
+-------
 
 ### 🧾 Tech Stack
 
